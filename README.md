@@ -8,7 +8,6 @@ It helps users quickly access, reuse, and manage prompts efficiently.
 
 ---
 
-## 📌 Features
 
 - 🔐 User Authentication (Login / Register)
 - ➕ Add New Prompts
