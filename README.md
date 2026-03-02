@@ -1,4 +1,4 @@
-
+# 🚀 AI Prompt Saver
 
 AI Prompt Saver is a MERN stack web application that allows users to save, manage, and organize their AI prompts in one place.  
 It helps users quickly access, reuse, and manage prompts efficiently.
