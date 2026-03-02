@@ -19,7 +19,7 @@ It helps users quickly access, reuse, and manage prompts efficiently.
 
 ---
 
-
+## 🛠️ Tech Stack
 
 **Frontend:**
 - React.js
